@@ -1,0 +1,11 @@
+.jp-junoWidget {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+.map{
+    height: 1000px;
+}
